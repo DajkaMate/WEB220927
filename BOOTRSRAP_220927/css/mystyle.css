@@ -1,0 +1,14 @@
+/*.container-fluid{
+    background-image: url("../img/macska1.jpeg");
+    height: 1000px;
+}*/
+
+.my-bg1{
+    background-image: url("../img/macska1.jpeg");
+
+}
+
+.my-bg2{
+    background-image: url("../img/macska2.jpg");
+    
+}
